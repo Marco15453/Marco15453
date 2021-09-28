@@ -5,7 +5,7 @@
 > [SCP079ElevatorControl](https://github.com/Marco15453/SCP079ElevatorControl)\
 > [BlackoutCooldown](https://github.com/Marco15453/BlackoutCooldown)\
 > [CuffedTK](https://github.com/Marco15453/CuffedTK)\
-> [NukeLock](https://github.com/Marco15453/NukeLock)\
+> [NukeLock](https://github.com/Marco15453/NukeLock)
 
 # Achieved Exiled Plugins
 > [TeslaGatesUnderControl](https://github.com/Marco15453/TeslaGatesUnderControl)\
