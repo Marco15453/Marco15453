@@ -9,7 +9,7 @@
 
 # Achieved Exiled Plugins
 > [TeslaGatesUnderControl](https://github.com/Marco15453/TeslaGatesUnderControl)\
-> [SCPAliveStatus](https://github.com/Marco15453/SCPAliveStatus)\
+> [SCPAliveStatus](https://github.com/Marco15453/SCPAliveStatus)
 
 # Statistics About Me
 <img src="https://github-readme-stats.vercel.app/api?username=marco15453&count_private=true&theme=tokyonight&show_icons=true">
