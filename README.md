@@ -1,11 +1,14 @@
 # Exiled Plugins
+
 > [RandomisedCoin](https://github.com/Marco15453/RandomisedCoin)\
 > [ElevatorLockdown](https://github.com/Marco15453/ElevatorLockdown)\
-> [SCP-575](https://github.com/Marco15453/SCP-575)\
 > [SCP079ElevatorControl](https://github.com/Marco15453/SCP079ElevatorControl)\
 > [BlackoutCooldown](https://github.com/Marco15453/BlackoutCooldown)\
 > [CuffedTK](https://github.com/Marco15453/CuffedTK)\
 > [NukeLock](https://github.com/Marco15453/NukeLock)
+
+# Exiled Rebirth Plugins
+> [SCP-575](https://github.com/Marco15453/SCP-575)
 
 # Archived Exiled Plugins
 > [TeslaGatesUnderControl](https://github.com/Marco15453/TeslaGatesUnderControl)\
