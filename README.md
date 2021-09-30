@@ -7,7 +7,7 @@
 > [CuffedTK](https://github.com/Marco15453/CuffedTK)\
 > [NukeLock](https://github.com/Marco15453/NukeLock)
 
-# Achieved Exiled Plugins
+# Archived Exiled Plugins
 > [TeslaGatesUnderControl](https://github.com/Marco15453/TeslaGatesUnderControl)\
 > [SCPAliveStatus](https://github.com/Marco15453/SCPAliveStatus)
 
