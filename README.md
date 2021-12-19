@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Marco15453</h1>
 
-<h3 align="center">Active Repositories</h3>
+<h2 align="center">Active Repositories</h2>
 
-<h3 align="center">Archived Repositories</h3>
+<h2 align="center">Archived Repositories</h2>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marco15453&theme=onedark" alt="marco15453" /></a> </p>
 
