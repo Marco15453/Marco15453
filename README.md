@@ -3,7 +3,7 @@
 <h2 align="center">Active Repositories</h2>
 
 <h2 align="center">Archived Repositories</h2>
-<p>All archived Repositories can be found <a href="https://github.com/Marco15453-Archived">here</a></p>
+<h3>All archived Repositories can be found <a href="https://github.com/Marco15453-Archived">here</a></h3>
 
 <h2 align="center">Statistics</h2>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marco15453&theme=onedark" alt="marco15453" /></a> </p>
